@@ -1,6 +1,6 @@
-print("hello world!")
+print("Bye world!")
 
-print("hello second world!")
+print("Bye second world!")
 
 def print_hello():
     print("Hello!")
