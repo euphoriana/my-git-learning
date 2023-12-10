@@ -1,6 +1,6 @@
 print("hi world!")
 
-print("it's euphoriana")
+print("hi it's euphoriana")
 
 def print_hello():
     print("Hello!")
