@@ -2,6 +2,8 @@ print("hi world!")
 
 print("hi second world!")
 
+print("hi it's euphoriana")
+
 def print_hello():
     print("Hello!")
 
